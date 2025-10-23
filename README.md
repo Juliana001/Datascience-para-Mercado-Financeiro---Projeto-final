@@ -6,6 +6,7 @@
 ## Tecnologias utilizadas: 
 * Python
     *Numpy
+  
     *Pandas
 
 ## Metodologia:
