@@ -13,7 +13,7 @@ O que os dados dizem?\
 Como chegaram a essa conclusão?\
 *Criação do dataset\
 Quais dados compõe o dataset?\
-Por quê?\
+Por quê?
 
 
 ## O que falta fazer:
