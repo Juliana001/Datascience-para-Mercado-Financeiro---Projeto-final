@@ -12,7 +12,8 @@ O que foi decidido?\
 
 Inicialmente Foram feitas análises por meio de gráficos com os atributos disponíveis na tabela do mini índice da b3, de 15 de outubro de 2020 à 19 de abril de 2023. No intuito de entender seu comportamento para em seguida estudar sobre o gap de abertura e os limites de suporte e resistência.
 
-~gráfico evolução do preço e médias móveis
+![Arquivo](https://drive.google.com/uc?export=view&id=1xjmZN667Dm74_LDH0nDd2p9J0HCi6VS4)
+
 
 A linha azul representa o fechamento diário
 A linha amarela uma média de curto prazo (20 dias)
