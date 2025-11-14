@@ -8,7 +8,7 @@ Período: 2025/2
 *Estudo do caso\
 O que ficou entendido?\
 O que foi decidido?\
-*Entendimento dos dados\
+*Entendimento dos dados
 
 Inicialmente Foram feitas análises por meio de gráficos com os atributos disponíveis na tabela do mini índice da b3, de 15 de outubro de 2020 à 19 de abril de 2023. No intuito de entender seu comportamento para em seguida estudar sobre o gap de abertura e os limites de suporte e resistência.
 
@@ -20,9 +20,9 @@ A linha azul representa o fechamento diário
 A linha amarela uma média de curto prazo (20 dias)
 A linha roxa uma média de longo prazo (50 dias)
 
-Quando a linha azul está acima das outras indica um otimismo do mercado
-Linha amarela e azul abaixo da roxa indica um mercado pessimista
-Quando estão próximas indica indecisão
+Quando a linha azul está acima das outras indica um otimismo do mercado\
+Linha amarela e azul abaixo da roxa indica um mercado pessimista\
+Quando estão próximas indica indecisão\
 
 2 Volatilidade diária 
 
@@ -31,6 +31,23 @@ Quando estão próximas indica indecisão
 Esse gráfico mostra a variação entre o maior e menor valor do preço por dia e a linha vermelha seria a volatilidade esperada desse ativo
 
 normalmente dias com uma porcentagem alta indicam um risco maior por serem mais imprevisíveis (como no final de 2022)
+
+3 Volume e Spread
+
+![Arquivo](https://drive.google.com/uc?export=view&id=1RI1RGPl_-HYglmHFV6HaMcizHX_Iw7-y)
+
+A linha azul representa o TickVol, número de negócios ou
+transações que ocorreram no período.
+A vermelha o Spread, diferença do preço de compra e
+venda num determinado momento.
+
+Pela teoria quanto maior a linha azul, menor será
+a linha vermelha
+Pelo gráfico, o spread se mantém quase sempre em 5
+e quedas bruscas para o zero,
+possivelmente um erro na coleta do dados
+Então não usaremos o Spread para nenhuma análise
+
 
 
 O que os dados dizem?\
