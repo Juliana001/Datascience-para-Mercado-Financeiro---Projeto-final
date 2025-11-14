@@ -20,7 +20,7 @@ Por quê?\
 *Validação do dataset com modelos lineares\
 *Criação do modelo do robô\
 *Simulação com o modelo\
-*Teste com dados atualizados do mercado\
+*Teste com dados atualizados do mercado
 
 ## Problemas e dificuldades:
 
