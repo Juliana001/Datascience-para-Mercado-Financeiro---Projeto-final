@@ -74,6 +74,11 @@ O que os dados dizem?\
 Como chegaram a essa conclusão?\
 *Criação do dataset\
 Os datasets criados estão no folder Datsets, sendo que a ordem de criação foi: 
+  * Dataset_final_processado (variáveis sugeridas pelo Jean) e diarios (variáveis sugeridas pela Juliana). Os datasets foram criados ao mesmo tempo de pois válidados. Com base nas matrizes de confusão e nas análises de importância de features foi decidido juntar os dois datasets, uma vez que o do Jean apresentou bom desempenho com os verdadeiros negativos e o da Juliana apresentou bom desempenho com os verdadeiros positivos.
+  * Em seguida foi criado o dataset_final processado juntando os dois datasets.
+  * Por fim foi criado o dataset_pronto_para_modelo, com base no anterior, mas normalizado.
+
+Durante a apresentação do modelo final, o professor sugeriu a retirada do feature media_diaria, por estarmos "prevendo" o futuro. A feature foi retirada do teste do simulador, mas decidmos mantê-la para criar um modelo que, com base na volatiliade dos últmos 90 minutos do dia anterior e com base nas médias diárias que possuimos, tente prever qual é o melhor horário de venda e de compra com base na média diária prevista
 
 Quais dados compõe o dataset?\
 Por quê?
