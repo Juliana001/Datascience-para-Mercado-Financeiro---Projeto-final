@@ -8,6 +8,7 @@ Período: 2025/2
 *Estudo do caso\
 O que ficou entendido?\
 O que foi decidido?\
+
 *Entendimento dos dados
 
 Inicialmente Foram feitas análises por meio de gráficos com os atributos disponíveis na tabela do mini índice da b3, de 15 de outubro de 2020 à 19 de abril de 2023. No intuito de entender seu comportamento para em seguida estudar sobre o gap de abertura e os limites de suporte e resistência.
@@ -48,7 +49,26 @@ e quedas bruscas para o zero,
 possivelmente um erro na coleta do dados
 Então não usaremos o Spread para nenhuma análise
 
+4 Distribuição de Retornos diários
 
+![Arquivo](https://drive.google.com/uc?export=view&id=1mvNk5CGAQufzD-UBvk729ol678c533si)
+
+A maioria dos dias termina com uma variação de preço muito pequena
+Em todo o tempo analisado do ativo, sua média é ligeiramente positiva, o que indica uma pequena valorização
+Entretanto, há uma leve assimetria negativa, significa que há um risco de um dia de perda muito grande e repentina acontecer
+O gráfico apresenta uma curtose alta, indicando mais momentos de calmaria e tem um risco mais do que comum de sofrer movimentos de preço muito grandes e súbitos.
+
+5 Distribuição de Volatilidade
+
+![Arquivo](https://drive.google.com/uc?export=view&id=1q-lGgYZRkxYT7_ocqxWdgwaDZX7RvPFG)
+
+Há uma maior volatilidade perto da hora de fechamento
+
+6 Distribuição de volume por hora do dia 
+
+![Arquivo](https://drive.google.com/uc?export=view&id=1TaMHKKkTxticGQRI4IXnMb3Cj03jg5JM)
+
+Há maiores volumes na abertura
 
 O que os dados dizem?\
 Como chegaram a essa conclusão?\
