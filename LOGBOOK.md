@@ -9,6 +9,22 @@ Período: 2025/2
 O que ficou entendido?\
 O que foi decidido?\
 *Entendimento dos dados\
+
+Inicialmente Foram feitas análises por meio de gráficos com os atributos disponíveis na tabela do mini índice da b3, de 15 de outubro de 2020 à 19 de abril de 2023. No intuito de entender seu comportamento para em seguida estudar sobre o gap de abertura e os limites de suporte e resistência.
+
+~gráfico evolução do preço e médias móveis
+
+A linha azul representa o fechamento diário
+A linha amarela uma média de curto prazo (20 dias)
+A linha roxa uma média de longo prazo (50 dias)
+
+quando a linha azul está acima das outras indica um
+otimismo do mercado
+linha amarela e azul abaixo da roxa indica um
+mercado pessimista
+quando estão próximas indica indecisão
+
+
 O que os dados dizem?\
 Como chegaram a essa conclusão?\
 *Criação do dataset\
