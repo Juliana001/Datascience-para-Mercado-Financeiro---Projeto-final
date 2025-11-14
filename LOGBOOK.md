@@ -2,7 +2,7 @@
 Disciplina: Tópicos em Engenharia de Sistemas de Informação 3\
 Alunos: Jean Carlos B. da Mata e Juliana do Nascimento Rocha\
 Professor: Thyago Carvalho\
-Período: 2025/2\
+Período: 2025/2
 
 ## O que foi feito até agora:
 *Estudo do caso\
