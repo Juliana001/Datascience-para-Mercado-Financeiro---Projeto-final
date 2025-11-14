@@ -84,7 +84,15 @@ Durante a apresentação do modelo final, o professor sugeriu a retirada do feat
 
 ## O que falta fazer:
 *Validação do dataset com modelos lineares\
+  *Seguindo as sugestões do professor, faremos a validação dos dois datasets, uma para verdadeiros positivos e um para verdadeiros negativos a fim de conseguir maior acurácia nas decisões do simulador.
+  
 *Criação do modelo do robô\
+  Os simuladores de robô foram criados com os seguintes modelos:
+    *Regrssão logística
+    * Random forest
+    *XGBost
+    *Support Vector
+  Testaremos o DBscan, que foi sugestão do professor.
 *Simulação com o modelo\
 *Teste com dados atualizados do mercado
 
