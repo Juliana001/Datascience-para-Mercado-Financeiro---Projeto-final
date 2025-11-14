@@ -78,10 +78,8 @@ Os datasets criados estão no folder Datsets, sendo que a ordem de criação foi
   * Em seguida foi criado o dataset_final processado juntando os dois datasets.
   * Por fim foi criado o dataset_pronto_para_modelo, com base no anterior, mas normalizado.
 
-Durante a apresentação do modelo final, o professor sugeriu a retirada do feature media_diaria, por estarmos "prevendo" o futuro. A feature foi retirada do teste do simulador, mas decidmos mantê-la para criar um modelo que, com base na volatiliade dos últmos 90 minutos do dia anterior e com base nas médias diárias que possuimos, tente prever qual é o melhor horário de venda e de compra com base na média diária prevista
+Durante a apresentação do modelo final, o professor sugeriu a retirada do feature media_diaria, por estarmos "prevendo" o futuro. A feature foi retirada do teste do simulador, mas decidmos mantê-la para criar um modelo que, com base na volatiliade dos últmos 90 minutos do dia anterior e com base nas médias diárias que possuimos, tente prever qual é o melhor horário de venda e de compra com base na média diária prevista.
 
-Quais dados compõe o dataset?\
-Por quê?
 
 
 ## O que falta fazer:
