@@ -73,6 +73,8 @@ Há maiores volumes na abertura
 O que os dados dizem?\
 Como chegaram a essa conclusão?\
 *Criação do dataset\
+Os datasets criados estão no folder Datsets, sendo que a ordem de criação foi: 
+
 Quais dados compõe o dataset?\
 Por quê?
 
