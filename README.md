@@ -5,11 +5,11 @@
 
 ## Tecnologias utilizadas: 
 ### Python
-*Numpy
-*Pandas
-*Scikit-Learn
-*Matplotlib
-*Seaborn
+* Numpy
+* Pandas
+* Scikit-Learn
+* Matplotlib
+* Seaborn
 
 ## Metodologia:
 * Estudo do caso
